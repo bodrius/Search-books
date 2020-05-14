@@ -21,12 +21,12 @@ body {
   padding-bottom: 10px;
 }
 
-.wrapper__caption{
+.wrapper__caption {
   font-size: 30px;
   margin-bottom: 20px;
 }
 
-.book-item{
+.book-item {
   list-style: none;
   font-size: 20px;
 }

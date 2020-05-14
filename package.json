@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luxplanjay/webpack-starter-kit.git"
+    "url": "https://github.com/bodrius/Search-books"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
@@ -49,7 +49,6 @@
     "webpackbar": "^4.0.0"
   },
   "dependencies": {
-    "axios": "^0.19.2",
     "core-js": "^3.6.4",
     "handlebars": "^4.7.3",
     "lodash.debounce": "^4.0.8"
